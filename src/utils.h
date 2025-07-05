@@ -30,8 +30,8 @@ f32 clamp(f32 min, f32 value, f32 max) {
 }
 
 static inline
-u16 arrayLength(void **arr) {
-  u16 len = 0;
+u8 arrayLength(void **arr) {
+  u8 len = 0;
   while (arr[len] != NULL)
     len++;
   return len;

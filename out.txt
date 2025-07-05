@@ -1,0 +1,18 @@
+black = "#333333"
+red = "#484848"
+green = "#5e5e5e"
+yellow = "#747474"
+blue = "#8a8a8a"
+magenta = "#a0a0a0"
+cyan = "#b6b6b6"
+white = "#cccccc"
+
+black = "#3b3b3b"
+red = "#515151"
+green = "#676767"
+yellow = "#7c7c7c"
+blue = "#929292"
+magenta = "#a8a8a8"
+cyan = "#bebebe"
+white = "#d4d4d4"
+
